@@ -9,3 +9,19 @@ Example:
 ``Answer: Mental health education in schools and workplaces.``
 ``Confidence Score: 0.87``
 
+
+## Try questions like:
+
+What are common mental health disorders?
+
+What is Cognitive Behavioral Therapy?
+
+How does technology help in mental health care?
+
+What are some causes of mental health problems?
+
+How can lifestyle choices affect mental health?
+
+What are the challenges in accessing mental health treatment?
+
+Who are involved in achieving global mental well-being?
